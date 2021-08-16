@@ -2,6 +2,9 @@
 
 A curated list of awesome [Swarming](https://www.serviceinnovation.org/intelligent-swarming/) (aka Intelligent Swarming) resources.
 
+#### What is Swarming?
+> "*Don't push problems towards a solution, pull solutions to the problem.*"
+
 Introduction
 ------------
 
@@ -25,7 +28,7 @@ Resources
 ---------
 
 <details>
-  <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
+  <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
   
