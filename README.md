@@ -34,10 +34,27 @@ Resources
   
   ## How Swarming Transforms Enterprise Support to Work Better with DevOps
   
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>How Swarming Transforms Enterprise Support to Work Better with DevOps</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>July 5, 2019</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
 
   ---
 </details>
