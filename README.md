@@ -16,6 +16,7 @@ This list is an attempt to bring all resources related to "Intelligent Swarming"
 | ---
 | :video_camera: A video from YouTube or another provider
 | :computer: An app or service to help with swarming
+| :desktop_computer: Slides for a presentation
 | :book: An article, book, tweet, or thread about swarming
 | :books: A collection of articles, books, etc
 | :memo: A doc, sheet, workbook, form, etc
@@ -216,7 +217,7 @@ Resources
 </details>
 
 <details>
-  <summary>:books: <a href="https://www.slideshare.net/JonHall7/velocity19-berlin-swarming-cynefinand-avoiding-the-problems-of-becoming-a-thirdline-support-team">Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
+  <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/velocity19-berlin-swarming-cynefinand-avoiding-the-problems-of-becoming-a-thirdline-support-team">Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
 </a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 7, 2019</summary>
   
   ## Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
