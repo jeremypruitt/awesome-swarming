@@ -183,6 +183,42 @@ Resources
 </details>
 
 <details>
+  <summary>:books: <a href="https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c">Are there drawbacks to Swarming?
+</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 3, 2019</summary>
+  
+  ## Are there drawbacks to Swarming?
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Are there drawbacks to Swarming?</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>May 3, 2019</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
+  
+  ---
+</details>
+
+<details>
   <summary>:books: <a href="https://www.example.com/">ExampleTitle
 </a> by <a href="https://www.example.com/"><i>ExampleAuthor</i></a></summary>
   
