@@ -401,8 +401,7 @@ Resources
 </details>
 
 <details>
-  <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/devopsdays-edinburgh-2017-ignite-talk-swarming">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
-</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 23, 2017</summary>
+  <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/devopsdays-edinburgh-2017-ignite-talk-swarming">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 23, 2017</summary>
   
   ## Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
   
