@@ -253,6 +253,42 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained
+</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 17, 2018</summary>
+  
+  ## Swarming vs Tiered Support Models Explained
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Swarming vs Tiered Support Models Explained</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>May 17, 2018</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.bmc.com/blogs/swarming-support-tiered-support-differences/</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*What is Swarming Support? It’s a reaction to the perceived shortcomings of a ubiquitous ITSM practice: [the tiered support model](https://www.bmc.com/blogs/support-levels-level-1-level-2-level-3/).*" - Excerpt
+  
+  ---
+</details>
+
+<details>
   <summary>:books: <a href="ExampleResourceLink">ExampleTitle
 </a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a></summary>
   
