@@ -55,11 +55,27 @@ Resources
   
   ## Introduction to Intelligent Swarming
   
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Introduction to Intelligent Swarming</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Stephen Watts</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>August 26, 2019</td>
+  </tr>
+  </table>
+  
   Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
   
-  | foo | bar |
-  | --- | --- |
-  | alice | bob |
+  > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
   
   ---
 </details>
