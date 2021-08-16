@@ -289,7 +289,7 @@ Resources
 </details>
 
 <details>
-  <summary>:books: <a href="https://www.bmc.com/blogs/transforming-support-for-the-digital-enterprise/">Transforming Support for the Digital Enterprise
+  <summary>:book: <a href="https://www.bmc.com/blogs/transforming-support-for-the-digital-enterprise/">Transforming Support for the Digital Enterprise
 </a> by <a href="https://www.bmc.com/blogs/author/imran_khan/"><i>Imran Khan</i></a> on June 16, 2021</summary>
   
   ## Transforming Support for the Digital Enterprise
