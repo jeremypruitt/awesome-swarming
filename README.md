@@ -210,7 +210,7 @@ Resources
   
   Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
   
-  > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
+  > "*Where I have seen it implemented, Swarming has generally been considered a success. However, having promoted it so enthusiastically, it feels fair that I should share and explore some of the negative experiences and concerns that I have observed in, and discussed with, practitioners and advocates of Swarming.*" - Excerpt
   
   ---
 </details>
