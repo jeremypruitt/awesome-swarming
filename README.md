@@ -215,8 +215,7 @@ Resources
 </details>
 
 <details>
-  <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/velocity19-berlin-swarming-cynefinand-avoiding-the-problems-of-becoming-a-thirdline-support-team">Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
-</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 7, 2019</summary>
+  <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/velocity19-berlin-swarming-cynefinand-avoiding-the-problems-of-becoming-a-thirdline-support-team">Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 7, 2019</summary>
   
   ## Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
   
