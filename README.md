@@ -17,99 +17,49 @@ Introduction
 
 This list is an attempt tp bring all resources related to "Intelligent Swarming" (I prefer Intentional/Incident Swarming) to a single place to make the understanding and adoptin fof Swarming easier for newcomers.
 
-Table of Contents
------------------
-
-- [Jon Hall](#jonhall)
-- [KCS](#kcs)
-- [Tweets](#tweets)
-- [Slides](#slides)
-
 ### Legend
 
-- :video_camera: - Video
-- :computer: - Tool
-- :books: - Read
-- :memo: - Write
+| ICON LEGEND
+| ---
+| :video_camera: A video from YouTube or another provider
+| :computer: An app or service to help with swarming
+| :books: An article, book, tweet, or thread about swarming
+| :memo: A doc, sheet, workbook, form, etc
 
 Resources
 ---------
 
-### Jon Stevens-Hall
-
-| Link | Source | Type |
-| ---- | ------ | ---- |
-| [How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) | *Jon Hall* | 📹 |
-| [Swarming vs Tiered Support Models Explained](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) | *Jon Hall* | 📖 | 
-
-| Link | Source |
-| ---- | ------ |
-| 📹 [How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) | *Jon Hall* |
-| 📖 [Swarming vs Tiered Support Models Explained](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) | *Jon Hall* |
-
----
-
-[How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) by *Jon Hall* 📹
-> Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-
----
-
-[Swarming vs Tiered Support Models Explained](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) by *Jon Hall* 📖 
-> Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-
----
-
 <details>
-  <summary>📖 <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained</a> by <i>Jon Hall</i></summary>
+  <summary>:video_camera: <a href="https://youtu.be/AS6DBiOM-3k">How Swarming Transforms Enterprise Support to Work Better with DevOps</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on July 5, 2019</summary>
   
-  ## Heading
+  ## How Swarming Transforms Enterprise Support to Work Better with DevOps
+  
   1. A numbered
   2. list
      * With some
      * Sub bullets
-</details>
 
-<details>
-  <summary>📖 <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained</a> by <i>Jon Hall</i></summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
   ---
 </details>
 
----
+<details>
+  <summary>:book: <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 17, 2018</summary>
+  
+  ## Swarming vs Tiered Support Models Explained
+  
+  ---
+</details>
 
-[How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) by *Jon Hall* 📹
-> Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-
----
-
-[Swarming vs Tiered Support Models Explained](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) by *Jon Hall* 📖   
-Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-List of features:
-- Foo
-- Bar
-- Blah
-
----
-
-[How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) by *Jon Hall* 📹
-- Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-
----
-
-- 📹 [How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) by *Jon Hall*
-	- Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-
----
-
-- [How Swarming Transforms Enterprise Support to Work Better with DevOps](https://youtu.be/AS6DBiOM-3k) *Jon Hall* 📹 📝 💻 📖
-	- Lorem ipsum dolor bacon sit amet lorem ipsum dolro bacon sit amet.
-
---------
-### KCS
-
-- [FooBar](http://www.example.com/foobar) **Lorem Ipsum Dolor Bacon** *Sit Amet* <img src="https://github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Video" title="Video" /><img src="https://github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Write" title="Write" /> <img src="https://github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Tool" title="Tool" /> <img src="https://github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Read" title="Read" />
+<details>
+  <summary>:book: <a href="https://www.bmc.com/blogs/intelligent-swarming/">Introduction to Intelligent Swarming</a> by <a href="https://www.bmc.com/blogs/author/wattssw/"><i>Stephen Watts</i></a> on Aug 26, 2019</summary>
+  
+  ## Introduction to Intelligent Swarming
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  | foo | bar |
+  | --- | --- |
+  | alice | bob |
+  
+  ---
+</details>
