@@ -1,21 +1,14 @@
 # Awesome Swarming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-| :exclamation: This is very important |
-|--------------------------------------|
+A curated list of awesome [Swarming](https://www.serviceinnovation.org/intelligent-swarming/) (aka Intelligent Swarming) resources.
 
-| :zap: Ignore at your own risk! |
-|--------------------------------|
-
-| :memo:        | Take note of this       |
-|---------------|:------------------------|
-
-| :point_up:    | Remember to not forget! |
-|---------------|:------------------------|
+#### What is Swarming?
+> "Lorem ipsum dolor bacon sit amet" - Name
 
 Introduction
 ------------
 
-This list is an attempt tp bring all resources related to "Intelligent Swarming" (I prefer Intentional/Incident Swarming) to a single place to make the understanding and adoptin fof Swarming easier for newcomers.
+This list is an attempt to bring all resources related to "Intelligent Swarming" (I prefer Intentional/Incident Swarming) to a single place to make the understanding and adoptin fof Swarming easier for newcomers.
 
 ### Legend
 
@@ -248,3 +241,15 @@ Resources
   
   ---
 </details>
+
+| :exclamation: This is very important |
+|--------------------------------------|
+
+| :zap: Ignore at your own risk! |
+|--------------------------------|
+
+| :memo:        | Take note of this       |
+|---------------|:------------------------|
+
+| :point_up:    | Remember to not forget! |
+|---------------|:------------------------|
