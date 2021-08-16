@@ -252,10 +252,10 @@ Resources
 </details>
 
 <details>
-  <summary>:books: <a href="https://www.example.com/">ExampleTitle
-</a> by <a href="https://www.example.com/"><i>ExampleAuthor</i></a></summary>
+  <summary>:books: <a href="ExampleResourceLink">ExampleTitle
+</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a></summary>
   
-  ## Lorem Ipsum Dolor
+  ## ExampleTitle
   
   <table>
   <tr></tr>
@@ -272,6 +272,11 @@ Resources
   <tr>
     <th>Date</th>
     <td>ExampleDate</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>ExampleResourceLink</td>
   </tr>
   </table>
   
