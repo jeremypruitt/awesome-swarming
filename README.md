@@ -162,6 +162,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://jonstevenshall.medium.com/a-nice-example-of-swarming-in-support-of-a-service-desk-7bdbe8e9890c">A nice example of Swarming in support of a Service Desk</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 21, 2018</summary>
+  
+  ## A nice example of Swarming in support of a Service Desk
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>A nice example of Swarming in support of a Service Desk</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>October 21, 2018</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://jonstevenshall.medium.com/a-nice-example-of-swarming-in-support-of-a-service-desk-7bdbe8e9890c</td>
+  </tr>
+  </table>
+  
+  > "*This particular service desk has implemented an interesting type of swarming, which I had not seen before. The front-line support agents are permitted to put the customer "on hold" by asking them to wait for up to three minutes. While the conversation is paused from the point of view of the consumer, the support agent is able to join one of a set of open text chat "channels".*"
+  
+  ---
+</details>
+
+<details>
   <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
