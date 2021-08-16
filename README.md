@@ -47,6 +47,28 @@ Resources
   
   ## Swarming vs Tiered Support Models Explained
   
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Swarming vs Tiered Support Models Explained</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>May 17, 2018</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
+  
   ---
 </details>
 
