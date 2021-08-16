@@ -358,8 +358,7 @@ Resources
 </details>
 
 <details>
-  <summary>:video_camera: <a href="https://youtu.be/r_tUa4oBo4o">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
-</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 20, 2017</summary>
+  <summary>:video_camera: <a href="https://youtu.be/r_tUa4oBo4o">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 20, 2017</summary>
   
   ## Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
   
