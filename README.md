@@ -94,6 +94,41 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://blog.serenacapital.com/its-time-to-switch-from-basic-technical-support-to-intelligent-swarming-4ebb58768b">Support is too often a customer’s and company’s headache</a> by <a href="https://twitter.com/sebastienle_roy"><i>Sébastien Le Roy</i></a> on Apr 10, 2018</summary>
+  
+  ## Support is too often a customer’s and company’s headache
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Support is too often a customer’s and company’s headache</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Sébastien Le Roy</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>Apr 10, 2018</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://blog.serenacapital.com/its-time-to-switch-from-basic-technical-support-to-intelligent-swarming-4ebb58768b</td>
+  </tr>
+  </table>
+  
+  > "*Maintaining a good customer experience required something different. That’s why they decided to abandon the traditional support model to try a smarter and more efficient process.*
+  > ...
+  > *We are really glad to share with you some insights on their experience to switch from a traditional 3-level support to Intelligent Swarming, a smarter and more efficient process. Before starting, we would like to make it clear that we are talking about technical support, not generic support.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 17, 2018</summary>
   
   ## Swarming vs Tiered Support Models Explained
