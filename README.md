@@ -248,8 +248,7 @@ Resources
 </details>
 
 <details>
-  <summary>:book: <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained
-</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 17, 2018</summary>
+  <summary>:book: <a href="https://www.bmc.com/blogs/swarming-support-tiered-support-differences/">Swarming vs Tiered Support Models Explained</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 17, 2018</summary>
   
   ## Swarming vs Tiered Support Models Explained
   
