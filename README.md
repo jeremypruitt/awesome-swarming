@@ -463,8 +463,7 @@ Resources
 </details>
 
 <details>
-  <summary>:books: <a href="ExampleResourceLink">ExampleTitle
-</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a></summary>
+  <summary>:books: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a></summary>
   
   ## ExampleTitle
   
