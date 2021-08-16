@@ -118,8 +118,7 @@ Resources
 </details>
 
 <details>
-  <summary>:book: <a href="https://jonstevenshall.medium.com/a-nice-example-of-swarming-in-support-of-a-service-desk-7bdbe8e9890c">A nice example of Swarming in support of a Service Desk
-</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 21, 2018</summary>
+  <summary>:book: <a href="https://jonstevenshall.medium.com/a-nice-example-of-swarming-in-support-of-a-service-desk-7bdbe8e9890c">A nice example of Swarming in support of a Service Desk</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 21, 2018</summary>
   
   ## A nice example of Swarming in support of a Service Desk
   
