@@ -180,7 +180,7 @@ Resources
 </details>
 
 <details>
-  <summary>:books: <a href="https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c">Are there drawbacks to Swarming?
+  <summary>:book: <a href="https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c">Are there drawbacks to Swarming?
 </a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 3, 2019</summary>
   
   ## Are there drawbacks to Swarming?
@@ -211,6 +211,42 @@ Resources
   Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
   
   > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
+  
+  ---
+</details>
+
+<details>
+  <summary>:books: <a href="https://www.slideshare.net/JonHall7/velocity19-berlin-swarming-cynefinand-avoiding-the-problems-of-becoming-a-thirdline-support-team">Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
+</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 7, 2019</summary>
+  
+  ## Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Swarming, Cynefin, & avoiding the problems of becoming a 3rd-line support team</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>November 7, 2019</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.slideshare.net/JonHall7/velocity19-berlin-swarming-cynefinand-avoiding-the-problems-of-becoming-a-thirdline-support-team</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*Discussion of Swarming and Cynefin as means to better align devops functions into enterprise support channels.*" - Excerpt
   
   ---
 </details>
