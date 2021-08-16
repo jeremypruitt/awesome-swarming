@@ -437,6 +437,41 @@ Resources
 </details>
 
 <details>
+  <summary>:desktop_computer: <a href="https://www.servicedeskinstitute.com/wp-content/uploads/2019/04/Jon-Hall-Swarming-Devops-for-ITSM.pdf">ITSM, DevOps and Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on March 26, 2019</summary>
+  
+  ## ITSM, DevOps and Swarming
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>ITSM, DevOps and Swarming</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>March 26, 2019</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.servicedeskinstitute.com/wp-content/uploads/2019/04/Jon-Hall-Swarming-Devops-for-ITSM.pdf</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*Swarming involves removing the tiers of support, and calling on the collective expertise of a "swarm" of analysts,*"
+  
+  ---
+</details>
+
+<details>
   <summary>:books: <a href="ExampleResourceLink">ExampleTitle
 </a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a></summary>
   
