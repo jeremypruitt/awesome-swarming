@@ -148,8 +148,7 @@ Resources
 </details>
 
 <details>
-  <summary>:books: <a href="https://www.serviceinnovation.org/intelligent-swarming/">Intelligent Swarming
-</a> by <a href="https://www.serviceinnovation.org/"><i>Consortium for Service Innovation</i></a></summary>
+  <summary>:books: <a href="https://www.serviceinnovation.org/intelligent-swarming/">Intelligent Swarming</a> by <a href="https://www.serviceinnovation.org/"><i>Consortium for Service Innovation</i></a></summary>
   
   ## CSI: Intelligent Swarming
   
@@ -172,7 +171,6 @@ Resources
   </table>
   
   CSI produce the most original content on Intelligent Swarming and is the defacto standard for understanding and implementing it at an organization.
-  
   
   > "*Sometimes called collaboration on steroids, the Intelligent Swarming methodology is a new way to align resources to work. It involves removing the tiers of support and, when appropriate, calling on the collective expertise of a “swarm” of analysts.  Our initial experience with Intelligent Swarming is exceeding expectations in terms of improvement in operational efficiencies, employee engagement, and customer satisfaction and loyalty, and it brings with it a host of questions around practices and measurements.*" - Excerpt
   
