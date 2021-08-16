@@ -70,11 +70,27 @@ Resources
   
   ## A nice example of Swarming in support of a Service Desk
   
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>A nice example of Swarming in support of a Service Desk</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Stephen Watts</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>October 21, 2018</td>
+  </tr>
+  </table>
+  
   Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
   
-  | foo | bar |
-  | --- | --- |
-  | alice | bob |
+  > "*Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.*" - Excerpt
   
   ---
 </details>
