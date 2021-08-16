@@ -16,8 +16,12 @@ This list is an attempt to bring all resources related to "Intelligent Swarming"
 | ---
 | :video_camera: A video from YouTube or another provider
 | :computer: An app or service to help with swarming
-| :books: An article, book, tweet, or thread about swarming
+| :book: An article, book, tweet, or thread about swarming
+| :books: A collection of articles, books, etc
 | :memo: A doc, sheet, workbook, form, etc
+| :exclamation: Very important
+| :writing_hand: Take note of this
+| :fire: Especially awesome :)
 
 Resources
 ---------
@@ -241,15 +245,3 @@ Resources
   
   ---
 </details>
-
-| :exclamation: This is very important |
-|--------------------------------------|
-
-| :zap: Ignore at your own risk! |
-|--------------------------------|
-
-| :memo:        | Take note of this       |
-|---------------|:------------------------|
-
-| :point_up:    | Remember to not forget! |
-|---------------|:------------------------|
