@@ -180,8 +180,7 @@ Resources
 </details>
 
 <details>
-  <summary>:book: <a href="https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c">Are there drawbacks to Swarming?
-</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 3, 2019</summary>
+  <summary>:book: <a href="https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c">Are there drawbacks to Swarming?</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 3, 2019</summary>
   
   ## Are there drawbacks to Swarming?
   
