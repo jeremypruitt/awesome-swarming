@@ -365,6 +365,42 @@ Resources
 </details>
 
 <details>
+  <summary>:video_camera: <a href="https://youtu.be/r_tUa4oBo4o">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
+</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 20, 2017</summary>
+  
+  ## Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>November 20, 2017</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://youtu.be/r_tUa4oBo4o</td>
+  </tr>
+  </table>
+  
+  Lorem ipsum dolor bacon sit amet lorem ipsum dolor bacon sit amet.
+  
+  > "*As enterprises transform around software-led innovation, DevOps teams start to need to deal with customer support at scale, while IT Service Management needs to adapt to a new, fast-moving reality of increased developer autonomy and collaboration. One significant challenge is that ubiquitous multi-tiered structure of support team organisation, which, this presentation argues, is fundamentally incompatible with the DevOps philosophy. We propose its replacement with Swarming, a methodology that harnesses and enables the benefits of DevOps, while doing so on an Enterprise support scale.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:books: <a href="ExampleResourceLink">ExampleTitle
 </a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a></summary>
   
