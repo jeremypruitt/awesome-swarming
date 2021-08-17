@@ -228,6 +228,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c">Are there drawbacks to Swarming?</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on May 3, 2019</summary>
+  
+  ## Are there drawbacks to Swarming?
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Are there drawbacks to Swarming?</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>May 3, 2019</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://medium.com/itrevolution/are-there-drawbacks-to-swarming-b42309e7541c</td>
+  </tr>
+  </table>
+  
+  > "*Where I have seen it implemented, Swarming has generally been considered a success. However, having promoted it so enthusiastically, it feels fair that I should share and explore some of the negative experiences and concerns that I have observed in, and discussed with, practitioners and advocates of Swarming.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
