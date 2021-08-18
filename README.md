@@ -261,6 +261,41 @@ Resources
 </details>
 
 <details>
+  <summary>:video_camera: <a href="https://youtu.be/AS6DBiOM-3k">How Swarming Transforms Enterprise Support to Work Better with DevOps</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on July 5, 2019</summary>
+  
+  ## How Swarming Transforms Enterprise Support to Work Better with DevOps
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>How Swarming Transforms Enterprise Support to Work Better with DevOps</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>July 5, 2019</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://youtu.be/AS6DBiOM-3k</td>
+  </tr>
+  </table>
+  
+  > "*This presentation explores the issues being encountered by DevOps teams as their output becomes more significant in enterprises, particularly where they are drawn into traditional support structures which often conflict with the principles of DevOps. We will discuss the ongoing emergence of Swarming as an alternative to 3-tier support structures, showing the latest examples from a diverse range of industries including software, telecommunications, and automotive.*"
+  >
+  > "*The presentation will show how Swarming enables smarter interaction between DevOps teams and established ITSM functions, and will show – using the Cynefin framework as an example - how Swarming enables provision of adaptive support for complex distributed systems in a way that tiered support can’t.*"
+
+  ---
+</details>
+
+<details>
   <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
