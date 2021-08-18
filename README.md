@@ -166,6 +166,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.linkedin.com/pulse/birds-bees-intelligent-swarming-phil-verghis/">Birds, Bees and ... Intelligent Swarming?</a> by <a href="https://www.linkedin.com/in/philverghis/"><i>Phil Verghis</i></a> on January 12, 2015</summary>
+  
+  ## Birds, Bees and ... Intelligent Swarming?
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Birds, Bees and ... Intelligent Swarming?</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Phil Verghis</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>January 12, 2015 (slight updates Jan 2019)</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.linkedin.com/pulse/birds-bees-intelligent-swarming-phil-verghis/</td>
+  </tr>
+  </table>
+  
+  > "*In an intelligent swarming model, your silos are broken down and customer-facing teams are comprised of empowered, collaborative expert generalists. They understand the context of the customer and the business context of the organization they are part of, and they use their collective wisdom to work on resolving issues - with a 'one touch' model. There are no 'escalations' - just requests for help where people who have the context and ability to assist do assist -- regardless of 'level' or hierarchy.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.linkedin.com/pulse/lets-do-away-support-levels-good-james-karioki/">Let's do away with support levels for good</a> by <a href="https://www.linkedin.com/in/jskarioki/"><i>James Karioki</i></a> on June 7, 2017</summary>
   
   ## Let's do away with support levels for good
