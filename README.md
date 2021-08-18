@@ -267,6 +267,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.linkedin.com/pulse/intelligent-swarming-technical-support-james-karioki/">Intelligent Swarming in Technical Support</a> by <a href="https://www.linkedin.com/in/jskarioki/"><i>James Karioki</i></a> on August 29, 2016</summary>
+  
+  ## Intelligent Swarming in Technical Support
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Intelligent Swarming in Technical Support</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>James Karioki</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>August 29, 2016</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.linkedin.com/pulse/intelligent-swarming-technical-support-james-karioki/</td>
+  </tr>
+  </table>
+  
+  > "*Intelligent swarming is about getting the best analysts to solve the issue working on the issue as quickly as possible. The goal is to engage the most appropriate or relevant skills on a problem, solve the problem as fast as possible and transfer knowledge expeditiously.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.linkedin.com/pulse/lets-do-away-support-levels-good-james-karioki/">Let's do away with support levels for good</a> by <a href="https://www.linkedin.com/in/jskarioki/"><i>James Karioki</i></a> on June 7, 2017</summary>
   
   ## Let's do away with support levels for good
