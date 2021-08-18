@@ -232,6 +232,41 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.dbkay.com/intelligent-swarming/intelligent-swarming-an-update">Intelligent Swarming: An Update</a> by <a href="https://www.dbkay.com/author/dbkay"><i>David Kay</i></a> on June 22, 2015</summary>
+  
+  ## Intelligent Swarming: An Update
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Intelligent Swarming: An Update</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>David Kay</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>June 22, 2015</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.dbkay.com/intelligent-swarming/intelligent-swarming-an-update</td>
+  </tr>
+  </table>
+  
+  > "*First, let me back up and define intelligent swarming. It’s a way of doing support that replaces tiers (or levels) and escalations with a flat organization arranged into skill groups. The case owner owns the case to resolution (a practice sometimes called “touch and hold.”) If the case owner needs help, he or she can request it. Or, if someone else thinks they have the right skills to help, they volunteer to help. Laid out that way, it’s a pretty simple idea, but one with profound implications.*"
+  >
+  > "*Here’s what I learned...*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.linkedin.com/pulse/lets-do-away-support-levels-good-james-karioki/">Let's do away with support levels for good</a> by <a href="https://www.linkedin.com/in/jskarioki/"><i>James Karioki</i></a> on June 7, 2017</summary>
   
   ## Let's do away with support levels for good
