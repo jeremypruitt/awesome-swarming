@@ -500,6 +500,44 @@ Resources
 </details>
 
 <details>
+  <summary>:video_camera: <a href="https://youtu.be/3h5ME-NB0BM">CCMA Ask the Expert Sun Life Service Desk Intelligent Swarming the next step in CX Delivery</a> by <i>Laura Ryan & Nelson Cassells</i></a> on July 31, 2020</summary>
+  
+  ## CCMA Ask the Expert Sun Life Service Desk Intelligent Swarming the next step in CX Delivery
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>CCMA Ask the Expert Sun Life Service Desk Intelligent Swarming the next step in CX Delivery</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Laura Ryan & Nelson Cassells</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>July 31, 2020</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://youtu.be/3h5ME-NB0BM</td>
+  </tr>
+  </table>
+  
+  > "*On this webinar Laura Ryan Associate Director of the Service Desk and Nelson Cassells Technical Support Services Senior Analyst will host a session on what Intelligent Swarming is and how the Sun Life Service Desk implemented & continued to grow Intelligent Swarming since January 2019.*
+  > - *What is Intelligent Swarming?*
+  > - *Benefits of Intelligent Swarming*
+  > - *The growth of Intelligent Swarming during COVID-19*
+  > - *Challenges of Intelligent Swarmin*
+  > - *How we capture our Intelligent Swarming data*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.bmc.com/blogs/transforming-support-for-the-digital-enterprise/">Transforming Support for the Digital Enterprise</a> by <a href="https://www.bmc.com/blogs/author/imran_khan/"><i>Imran Khan</i></a> on June 16, 2021</summary>
   
   ## Transforming Support for the Digital Enterprise
