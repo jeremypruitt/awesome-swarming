@@ -366,6 +366,45 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://freshservice.com/itsm/three-tier-support-vs-swarming-blog/">Tiered Support Vs Swarming – Which Will Suit You?</a> by <a href="https://freshservice.com/blog/author/praveenr/"><i>Praveen Ramesh</i></a> on October 24, 2017</summary>
+  
+  ## Tiered Support Vs Swarming – Which Will Suit You?
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Tiered Support Vs Swarming – Which Will Suit You?</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Praveen Ramesh</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>October 24, 2017</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://freshservice.com/itsm/three-tier-support-vs-swarming-blog/</td>
+  </tr>
+  </table>
+  
+  > "*With DevOps gaining momentum among leading organizations, there’s been a change in the way IT teams have worked. Of late, swarming – a new form of IT support has been in the spotlight. Experts have taken the side of this new swarming model and backed it to be ideal for IT orgs of any scale.*
+  >
+  > *What we aim to discuss in this blog is to compare and contrast between these two approaches on the following aspects,*
+  > - *Swiftness in solving tickets*
+  > - *Ease of collaboration*
+  > - *Ease of implementation and adoption*
+  > - *Before we delve into the comparison, it’s important that we know how the two models work.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.linkedin.com/pulse/lessons-learned-intelligent-swarming-adam-maino/">Lessons Learned in Intelligent Swarming</a> by <a href="https://www.linkedin.com/in/adamomaino/"><i>Adamo Maino</i></a> on October 25, 2017</summary>
   
   ## Lessons Learned in Intelligent Swarming
