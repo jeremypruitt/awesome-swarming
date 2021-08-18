@@ -131,6 +131,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.linkedin.com/pulse/20130118143727-128811924-does-your-organization-swarm/">Does Your Organization Swarm?</a> by <a href="https://www.linkedin.com/in/marlagottschalk/"><i>Marla Gottschalk, Ph.D.</i></a> on January 18, 2013</summary>
+  
+  ## Does Your Organization Swarm?
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Does Your Organization Swarm?</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Marla Gottschalk, Ph.D.</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>January 18, 2013</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.linkedin.com/pulse/20130118143727-128811924-does-your-organization-swarm/</td>
+  </tr>
+  </table>
+  
+  > "*Developing an ability to swarm is just as much an orientation toward the work itself — as it is a problem solving technique. Swarming would require needed talent and skills to flow quickly toward projects, as it capitalizes upon an agile culture and a fluid talent stream. This requires a modern view of organizational boundaries and talent utilization. There are challenges to swarming — and the process may not prove appropriate for all organizations. However, it may be an interesting option to consider.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.thinkhdi.com/library/supportworld/2014/future-knowledge-mgmt">The Future of Knowledge Management: Increased Value</a> by <a href="https://www.thekcsacademy.net/author/goxton/"><i>Greg Oxton</i></a> on March 1, 2014</summary>
   
   ## The Future of Knowledge Management: Increased Value
