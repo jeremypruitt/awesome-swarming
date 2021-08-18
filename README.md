@@ -362,6 +362,42 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.bmc.com/blogs/transforming-support-for-the-digital-enterprise/">Transforming Support for the Digital Enterprise</a> by <a href="https://www.bmc.com/blogs/author/imran_khan/"><i>Imran Khan</i></a> on June 16, 2021</summary>
+  
+  ## Transforming Support for the Digital Enterprise
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Transforming Support for the Digital Enterprise</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Imran Khan</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>June 16, 2021</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.bmc.com/blogs/transforming-support-for-the-digital-enterprise/</td>
+  </tr>
+  </table>
+  
+  > "*Traditional support is structured in tiers—typically Levels 1, 2, and 3. In this model, users contact the service desk, Level 1, where agents are skilled to handle routine issues, but not much more. To reach in-depth expertise, you have to wait for Levels 2 and 3, but you have to go through Level 1 first. The new SaaS model makes the most experienced and skilled agents the first point of contact for end users by leveraging three key elements:*
+  > - *Dispatch swarming*
+  > - *Automation*
+  > - *Self-help*"
+  
+  ---
+</details>
+
+<details>
   <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
