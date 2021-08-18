@@ -98,6 +98,41 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.thinkhdi.com/library/supportworld/2014/future-knowledge-mgmt">The Future of Knowledge Management: Increased Value</a> by <a href="https://www.thekcsacademy.net/author/goxton/"><i>Greg Oxton</i></a> on March 1, 2014</summary>
+  
+  ## The Future of Knowledge Management: Increased Value
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>The Future of Knowledge Management: Increased Value</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Greg Oxton</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>March 1, 2014</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.thinkhdi.com/library/supportworld/2014/future-knowledge-mgmt</td>
+  </tr>
+  </table>
+  
+  > "*Intelligent swarming entails restructuring the support organization by doing away with support tiers and replacing escalations and inefficient hand-offs with collaboration. The goal is to get the person who’s most likely to be able to solve an issue working on it at the first touch, whether that person’s a specialist or a generalist. A generalist may even collaborate with a specialist to resolve an issue.*"
+  >
+  > "*Early adopters of the intelligent swarming model have seen dramatic improvements in skills development, employee morale, and operational efficiency. Most importantly, their customers love it! These organizations have also found that not all incidents require collaboration between multiple support professionals; only 20–35 percent of the incidents closed in these environments require collaboration.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.linkedin.com/pulse/lets-do-away-support-levels-good-james-karioki/">Let's do away with support levels for good</a> by <a href="https://www.linkedin.com/in/jskarioki/"><i>James Karioki</i></a> on June 7, 2017</summary>
   
   ## Let's do away with support levels for good
