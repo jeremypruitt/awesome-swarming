@@ -807,6 +807,41 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://itrevolution.com/using-swarming-for-incident-response/">Using Swarming For Incident Response</a> by <a href="https://itrevolution.com/faculty/leah-brown/"><i>Leah Brown</i></a> on June 17, 2021</summary>
+  
+  ## Using Swarming For Incident Response
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Using Swarming For Incident Response</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Leah Brown</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>June 17, 2021</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://itrevolution.com/using-swarming-for-incident-response/</td>
+  </tr>
+  </table>
+  
+  > "*In the new Prepare/Respond/Review Incident Management Framework, we advise against using this tiered ticketing system and moving toward incident swarming.*
+  >
+  > *Swarming provides a mechanism to remove queues and handoffs for major incident handling and to quickly bring responders and dependent responders together. Incident swarming focuses accountability to drive reduction in recovery time and to share knowledge about the incident rapidly.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
