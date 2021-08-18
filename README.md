@@ -63,6 +63,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.managementexchange.com/story/designing-open-collab">Designing open collaboration in Red Hat Global Support Services</a> by <a href="https://twitter.com/samfw"><i>Sam Knuth</i></a> on May 9, 2011</summary>
+  
+  ## Designing open collaboration in Red Hat Global Support Services
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Designing open collaboration in Red Hat Global Support Services</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Sam Knuth</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>May 9, 2011</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.managementexchange.com/story/designing-open-collab</td>
+  </tr>
+  </table>
+  
+  > "*This is the story of how we changed the way we solve customer problems in Red Hat Global Support Services from the traditional “escalation model” to a new collaborative model based on a concept we call “intelligent swarming”. Since we couldn’t find anyone who had done this before, and there was no script to follow, this is also the story of how we used open collaboration and design thinking to develop the process itself.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:book: <a href="https://www.thinkhdi.com/library/supportworld/2012/no-more-tiers.aspx">No More Tiers: Is Intelligent Swarming a Better Way to Solve Customer Issues?</a> by <a href="https://www.thekcsacademy.net/author/goxton/"><i>Greg Oxton</i></a> on June 12, 2012</summary>
   
   ## No More Tiers: Is Intelligent Swarming a Better Way to Solve Customer Issues?
