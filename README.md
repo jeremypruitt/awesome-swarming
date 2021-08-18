@@ -199,6 +199,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.linkedin.com/pulse/lessons-learned-intelligent-swarming-adam-maino/">Lessons Learned in Intelligent Swarming</a> by <a href="https://www.linkedin.com/in/adamomaino/"><i>Adamo Maino</i></a> on October 25, 2017</summary>
+  
+  ## Lessons Learned in Intelligent Swarming
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Lessons Learned in Intelligent Swarming</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Adamo Maino</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>October 25, 2017</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.linkedin.com/pulse/lessons-learned-intelligent-swarming-adam-maino/</td>
+  </tr>
+  </table>
+  
+  > "*When my Director and I first had a conversation about Intelligent Swarming it went a little like this...*"
+  
+  ---
+</details>
+
+<details>
   <summary>:video_camera: <a href="https://youtu.be/r_tUa4oBo4o">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on November 20, 2017</summary>
   
   ## Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
