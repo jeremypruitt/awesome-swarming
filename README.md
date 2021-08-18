@@ -533,6 +533,39 @@ Resources
 </details>
 
 <details>
+  <summary>:video_camera: <a href="https://youtu.be/8yGpf2QyJQs">The Problem of Becoming 3rd-Line Support Team (and Why Swarming Works Better for DevOps)</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 23, 2018</summary>
+  
+  ## The Problem of Becoming 3rd-Line Support Team (and Why Swarming Works Better for DevOps)
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>The Problem of Becoming 3rd-Line Support Team (and Why Swarming Works Better for DevOps)</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Jon Stevens-Hall</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>October 23, 2018</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://youtu.be/8yGpf2QyJQs</td>
+  </tr>
+  </table>
+  
+  > "*As DevOps grows in large enterprises, its practitioners often get drawn into the traditional “3 tier” support structure. Here they find queues, silos and overworked heroes. This talk describes a growing alternative, “Swarming," and explains why it is a far better fit for enterprise DevOps.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:desktop_computer: <a href="https://www.servicedeskinstitute.com/wp-content/uploads/2019/04/Jon-Hall-Swarming-Devops-for-ITSM.pdf">ITSM, DevOps and Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on March 26, 2019</summary>
   
   ## ITSM, DevOps and Swarming
