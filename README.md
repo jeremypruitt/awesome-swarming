@@ -296,6 +296,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.bmc.com/blogs/intelligent-swarming/">Introduction to Intelligent Swarming</a> by <a href="https://www.bmc.com/blogs/author/wattssw/"><i>Stephen Watts</i></a> on Aug 26, 2019</summary>
+  
+  ## Introduction to Intelligent Swarming
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Introduction to Intelligent Swarming</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Stephen Watts</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>August 26, 2019</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.bmc.com/blogs/intelligent-swarming/</td>
+  </tr>
+  </table>
+  
+  > "*Intelligent swarming is the idea that one support person will work on a trouble ticket from start to finish, without escalations. This means that the support person will seek the proper resource, working towards a resolution instead of escalating it to a higher level. This is potentially aggravating to customers who have become used to speedy resolutions. By not escalating, the person working towards the resolution “swarms” with other peers around a problem until that issue is resolved.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:ExampleIcon: <a href="ExampleResourceLink">ExampleTitle</a> by <a href="ExampleAuthorLink"><i>ExampleAuthor</i></a> on ExampleDate</summary>
   
   ## ExampleTitle
