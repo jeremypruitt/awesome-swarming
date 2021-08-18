@@ -63,6 +63,41 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.thinkhdi.com/library/supportworld/2012/no-more-tiers.aspx">No More Tiers: Is Intelligent Swarming a Better Way to Solve Customer Issues?</a> by <a href="https://www.thekcsacademy.net/author/goxton/"><i>Greg Oxton</i></a> on June 12, 2012</summary>
+  
+  ## No More Tiers: Is Intelligent Swarming a Better Way to Solve Customer Issues?
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>No More Tiers: Is Intelligent Swarming a Better Way to Solve Customer Issues?</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>Greg Oxton</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>June 12, 2012</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.thinkhdi.com/library/supportworld/2012/no-more-tiers.aspx</td>
+  </tr>
+  </table>
+  
+  > "*Intelligent swarming is a dramatically different way to organize the support organization, challenging thirty years of accepted practice and structure in support. However, the early adopters of this model are seeing improvements in all key operational measures of support, including productivity, time to resolve, employee growth, and customer satisfaction. And while it is not appropriate for all support environments, swarming is most effective when solving new, complex problems. The goal is to get the right people working on new issues, together, and as quickly as possible. Intelligent swarming facilitates the collaboration already happening between support agents and leads to faster and more creative resolutions.*"
+  >
+  > "*Let’s examine what is driving this change, how it works, where it applies, and why it can be a more efficient and effective way to deliver support.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/devopsdays-edinburgh-2017-ignite-talk-swarming">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 23, 2017</summary>
   
   ## Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
@@ -466,4 +501,3 @@ Resources
   
   ---
 </details>
-
