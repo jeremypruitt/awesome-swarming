@@ -98,6 +98,39 @@ Resources
 </details>
 
 <details>
+  <summary>:book: <a href="https://www.linkedin.com/pulse/lets-do-away-support-levels-good-james-karioki/">Let's do away with support levels for good</a> by <a href="https://www.linkedin.com/in/jskarioki/"><i>James Karioki</i></a> on June 7, 2017</summary>
+  
+  ## Let's do away with support levels for good
+  
+  <table>
+  <tr></tr>
+  <tr>
+    <th>Title</th>
+    <td>Let's do away with support levels for good</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Author</th>
+    <td>James Karioki</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Date</th>
+    <td>June 7, 2017</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th>Link</th>
+    <td>https://www.linkedin.com/pulse/lets-do-away-support-levels-good-james-karioki/</td>
+  </tr>
+  </table>
+  
+  > "*Customers typically need answers fast. They do not want to explain the problem all over again and they do not want steps that have already been tried unsuccessfully before to be tried again. The solution is to ensure that such problems are solved by collaboration instead of escalation. By working closely with other experts and ensuring updates are shared with the customer by the expert and in the presence of the other team members, firstly, the problem gets solved quickly. Secondly, the other team members gain knowledge, which they can then utilize the next time a similar problem occurs.*"
+  
+  ---
+</details>
+
+<details>
   <summary>:desktop_computer: <a href="https://www.slideshare.net/JonHall7/devopsdays-edinburgh-2017-ignite-talk-swarming">Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming</a> by <a href="https://twitter.com/JonStevensHall"><i>Jon Stevens-Hall</i></a> on October 23, 2017</summary>
   
   ## Aligning DevOps and IT Support in the Enterprise, Through Intelligent Swarming
